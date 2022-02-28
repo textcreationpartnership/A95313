@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true state of Mr. Culliford's case By the Mayor's poll the sitting member, Mr. Fownes had---61 votes. And the petitioner Mr. Culliford but----53 Which gave the sitting member a majority of---8 By the poll taken by Mr. Culliford's clerks, by order of the Mayor, the petitioner had---78 votes. And the sitting member but-59 Which gave the petitioner a majority of----19</title>
+            <author>Culliford, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95313</idno>
+            <idno type="STC">Wing T3108</idno>
+            <idno type="STC">ESTC R231638</idno>
+            <idno type="EEBO-CITATION">99899796</idno>
+            <idno type="PROQUEST">99899796</idno>
+            <idno type="VID">137179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2449:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true state of Mr. Culliford's case By the Mayor's poll the sitting member, Mr. Fownes had---61 votes. And the petitioner Mr. Culliford but----53 Which gave the sitting member a majority of---8 By the poll taken by Mr. Culliford's clerks, by order of the Mayor, the petitioner had---78 votes. And the sitting member but-59 Which gave the petitioner a majority of----19</title>
+                  <author>Culliford, Mr.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Docket title: Corse-Castle election, the 26th. of April, 1699.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Lincoln's Inn Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political campaigns --  England --  Early works to 1800.</term>
+               <term>Elections --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137179:1" rendition="simple:additions"/>
+            <head>A True State of Mr. Culliford's CASE.</head>
+            <list>
+               <item>By the Mayor's Poll the Sitting Member, Mr. <hi>Fownes,</hi> had—61 Votes.</item>
+               <item>And the Petitioner Mr. <hi>Culliford</hi> but—53</item>
+               <item>Which gave the Sitting Member a Majority of— 8</item>
+               <item>By the Poll taken by Mr. <hi>Culli<g ref="char:EOLhyphen"/>ford</hi>'s Clerks, by Order of the Mayor, the Petitioner had—78 Votes.</item>
+               <item>And the Sitting Member but—59</item>
+               <item>Which gave the Petitioner a Majority of—19</item>
+            </list>
+            <p>BY the Conſtitution of the Corporation, as it was Agreed by the Councel on both Sides; the right to Elect was in them who had Eſtates of Inheritance or Freehold in Poſſeſſion, or in Reverſion after Eſtates for Years, tho' they did not Pay Scot and Lot; and in them who had Eſtates for Years determinable upon a Life, or Lives; or other Eſtate for Years, paying Scot and Lot.</p>
+            <p>That the Mayor made himſelf an Agent for the Sitting Member, in going from Houſe to Houſe in Town and Country to ſolicit Votes for him; and one <hi>Nicholas Cobb</hi> Proved that to procure his Vote, the Mayor promiſed to employ him in his Work after a long diſcon<g ref="char:EOLhyphen"/>tinuance, and to pay him an old Debt, of which he gave him a Guinea in hand, declaring, That tho' he could not well ſpare the Money, he parted with it at that time to oblige him to Vote for the Sitting Member.</p>
+            <p>That the Mayor, the Night before the Election, declared, he would Return the Sitting Member, tho' he had but 5 Votes. Proved by <hi>Nicholas Cobb.</hi>
+            </p>
+            <p>That to diſcourage Perſons from Voting for the Petitioner, the Mayor declared he would Return the Sitting Member, if the Petitioner had a Hundred Votes more. Proved by <hi>Wil<g ref="char:EOLhyphen"/>liam Furſeman.</hi>
+            </p>
+            <p>That the Mayor by his Arbitrary Authority, againſt the Advice of the Magiſtrates, allow'd 4 Perſons to Poll for the Sitting Member that were only Truſtees for a Charity, that have ſtill been objected againſt, and never but One of them allow'd to Vote for the whole Number: <hi>And if theſe Perſons be allow'd to Vote, 'tis but raiſing a Truſt, with Numbers of Truſtees, to carry any Election.</hi>
+            </p>
+            <p>And he alſo further allow'd 7 other Perſons to Vote, (of which Number the Sitting Mem<g ref="char:EOLhyphen"/>ber's own Son, was one, which his Councel gave up at the firſt naming him) that had no manner of pretence, or right to Poll. Proved by <hi>Smith, Roe,</hi> and <hi>Clarke,</hi>
+            </p>
+            <p>Which 4 Truſtees, and 7 other Votes, making in all 11 Votes; being deducted from the Sitting Member's Poll of 61 Votes, allowed by the Mayor; reduces his Number to 50 Votes only.</p>
+            <p>And the Mayor by the ſame Arbitrary Authority, againſt the Right of the Election Re<g ref="char:EOLhyphen"/>jected 25, of the Petitioner's Votes; 19 of which were allow'd and paſſed as good Votes at the Election but in <hi>Auguſt</hi> before upon the ſtricteſt Scrutiny: And ſeveral of them, then Voted for the Sitting Member, and were allow'd good Votes for him. <hi>Which Poll, was taken, and now Proved by the Sitting Member's own Agent</hi> John Guy, <hi>the preſent Mayor.</hi>
+            </p>
+            <p>And moſt of the Deeds and Leaſes of their Eſtates, was produced, with other Proof to juſtifie their Rights to Elect; As was alſo the Titles to the Eſtates of thoſe other 6 Perſons that Voted for the Petitioner, which had accru'd to them ſince the Election in <hi>Auguſt;</hi> but long before the teſte of the Writ. Proved by <hi>Smith, Roe,</hi> and <hi>Clarke.</hi>
+            </p>
+            <p>And the Sitting Member's Councel, without any Conteſt, gave up 2 of the ſaid 19 Votes, and Agreed they had good right to Vote, tho' Rejected by the Mayor. But inſiſted that 3 others of them received Charity, which the Petitioner gave up, tho' they had Freehold Leaſes, and had Voted in all Elections for 30 Years before: And the ſaid Councel farther inſiſted, that ſeveral others had not Livery endorſed on the Back of their Deeds. <hi>But it was Proved they were in Poſſeſſion:</hi> And then they called 3 Witneſſes, <hi>(viz.) White, Webber,</hi> and <hi>Jones,</hi> to diſable the reſt of the 19; and alſo the other 6 new Votes, that made up the Petitioners Number 25. And they declar'd, each of them to ſeveral of the Votes, taking in the whole Number between them, <hi>That they had no Eſtates in the Borough, had never Voted in any Election, nor Paid to Church or Poor.</hi>
+            </p>
+            <p>Againſt which was produc'd and Proved their Deeds and Leaſes, the Poll taken in <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and the Poors Book, with a Cloud of Witneſſes that juſtified the Contrary.</p>
+            <p>So that if the Petitioner's Witneſſes, who are known to be Men of Probity and Repu<g ref="char:EOLhyphen"/>tation, and the Evidence produced which confirms their Teſtimony, are to be believed and
+<pb facs="tcp:137179:2" rendition="simple:additions"/>credited before the Aſſertion of thoſe 3 Witneſſes produced for the Sitting Member; It will appear, after deducting the 3 Votes which received Charity; and adding the remaining 22 Votes to the 53 allow'd the Petitioner on the Mayor's Poll, makes his Number 75. And the Sitting Member's Poll being reduced from 61, to 50, as before, gives the Petitioner a clear Majority of 25 Votes.</p>
+            <p>At the Election the Mayor rejected one <hi>John Froſt,</hi> that Voted for the Petitioner, and it being inſiſted on that he had good right to Vote, <hi>his Eſtate being bought of the Mayor himſelf;</hi> the Mayor thereupon publickly confeſſed, <hi>He knew he was a good Vote, but ſaid, he ſhould not paſs then.</hi> Proved by <hi>George Gould,</hi> and <hi>Nath. Smith.</hi>
+            </p>
+            <p>When the Poll was ended, the Petitioner call'd to the Clerks to caſt up the Poll, and to acquaint the Mayor how it ſtood; who told him, the Petitioner had 78 Votes, and the Sitting Member but 59. Upon which, the Petitioner demanded of him to Proclaim and Return him duly Elected: But the Mayor anſwer'd, <hi>If you have a Majority, I will Return Mr.</hi> Fownes, <hi>for all that:</hi> And the Petitioner then demanded a Scrutiny, there being 10 Queries on the Sitting Member's Poll, and 4 on the Petitioner's Poll; but he poſitively re<g ref="char:EOLhyphen"/>fuſed the ſame, ſaying he would return Mr. <hi>Fownes.</hi> Proved by <hi>George Gould,</hi> and <hi>Nath. Smith.</hi>
+            </p>
+            <p>☞ And as to what was affirm'd <hi>by Two of the Sitting Member's Witneſſes,</hi> with relation to the Mayor's acting fairly in the Management of the Poll: It is humbly conceived, That the Corporation Petition ſubſcribed by 70 Hands, of the beſt Men in the Borough, ſetting forth the Unjuſt and Arbitrary Proceedings of the Mayor, is a full Anſwer thereto; but if not, it is referr'd to the whole Country to manifeſt the Truth of what is therein Aſſerted. But as a further proof thereof, the Mayor Rejected the Vote of one Mr. <hi>Richard Gould,</hi> a Perſon who hath a good Eſtate in the Borough, and for many Years had Voted at former Elections, <hi>and ſeveral times for the Sitting Member;</hi> whereupon the ſaid <hi>Gould</hi> was forced to Travel, (during the taking of the Poll, forward and backward) Ten Miles to fetch his Deeds, to Prove the ſame; and when produced, the Mayor without looking into them, was pleaſed to de<g ref="char:EOLhyphen"/>clare he was ſatisfied he had a right to Poll: And then, and not till then, order'd the Clerks to ſet him Down for the Petitioner. Prov'd by <hi>George Gould,</hi> and <hi>Nath. Smith.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>
+               <hi>Corfe-Caſtle</hi> ELECTION, The 26<hi>th.</hi> of <hi>April,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
